@@ -1,0 +1,9 @@
+C:\Hongru He\Academia\SeattleU\CPSC5011\P1\P3\P3\P3Test\obj\Debug\P3Test.csproj.AssemblyReference.cache
+C:\Hongru He\Academia\SeattleU\CPSC5011\P1\P3\P3\P3Test\obj\Debug\P3Test.csproj.CoreCompileInputs.cache
+C:\Hongru He\Academia\SeattleU\CPSC5011\P1\P3\P3\P3Test\bin\Debug\P3Test.dll
+C:\Hongru He\Academia\SeattleU\CPSC5011\P1\P3\P3\P3Test\bin\Debug\P3Test.pdb
+C:\Hongru He\Academia\SeattleU\CPSC5011\P1\P3\P3\P3Test\bin\Debug\nunit.framework.dll
+C:\Hongru He\Academia\SeattleU\CPSC5011\P1\P3\P3\P3Test\bin\Debug\nunit.framework.xml
+C:\Hongru He\Academia\SeattleU\CPSC5011\P1\P3\P3\P3Test\obj\Debug\P3Test.csproj.CopyComplete
+C:\Hongru He\Academia\SeattleU\CPSC5011\P1\P3\P3\P3Test\obj\Debug\P3Test.dll
+C:\Hongru He\Academia\SeattleU\CPSC5011\P1\P3\P3\P3Test\obj\Debug\P3Test.pdb
